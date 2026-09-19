@@ -38,7 +38,8 @@ plt.title('Detected Edges'), plt.axis('off')
 plt.show()
 ```
 
-<img width="1017" height="442" alt="image" src="https://github.com/user-attachments/assets/a6b37c0e-df41-4d11-ae27-e3a38a224282" />
+<img width="1095" height="377" alt="image" src="https://github.com/user-attachments/assets/edb828ad-4050-41a7-a843-6250dc878914" />
+
 
 
 ## Result
